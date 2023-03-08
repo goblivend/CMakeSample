@@ -1,5 +1,5 @@
 #pragma once
 
-namespace foo {
+namespace libfoo {
     int foo();
 }

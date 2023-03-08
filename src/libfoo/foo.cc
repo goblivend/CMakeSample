@@ -1,6 +1,6 @@
 #include "libfoo/foo.hh"
 
-int foo()
+int libfoo::foo()
 {
     return 42;
 }
